@@ -14,7 +14,7 @@ It allows users to search for projects related to specific topics and provides d
 
 ## Technologies Used
 
-- Python 3.x
+- Python
 - Requests library
 - GitHub API
 
